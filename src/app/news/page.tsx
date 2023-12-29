@@ -4,9 +4,9 @@ import { Header2 } from "@/sections/Header";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Oqoltin tuman tibbiyot birlashmasi yangiliklari",
+  title: "Sardoba tuman tibbiyot birlashmasi yangiliklari",
   description:
-    "Sirdaryo viloyat Oqoltin tuman tibbiyot birlashmasi yangiliklari",
+    "Sirdaryo viloyat Sardoba tuman tibbiyot birlashmasi yangiliklari",
 };
 
 export default async function NewsPage() {

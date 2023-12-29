@@ -1,7 +1,7 @@
 import { AboutRu } from "@/components/About";
 import { QuestionsRu } from "@/components/Questions";
 import Carusel from "@/components/carusel";
-import { GalleryRu } from "@/components/gallery/Gallery";
+import { DirektorRu, GalleryRu } from "@/components/gallery/Gallery";
 import { GetNews } from "@/components/getNews";
 import { FooterRu } from "@/sections/Footer";
 import { Header2 } from "@/sections/Header";
@@ -65,7 +65,7 @@ export default function RuPage() {
         <Carusel />
         <AboutRu />
         <GalleryRu />
-        {/* <Gallery2 /> */}
+       <DirektorRu/>
         <Suspense>
           <h2 className="text-3xl py-8">Новости</h2>
           <GetNews />

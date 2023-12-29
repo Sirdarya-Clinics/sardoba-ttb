@@ -3,4 +3,4 @@ Allow: /
 Disallow: /private/
 Disallow: /backend/
 
-Sitemap: https://shirin-ttb.uz/sitemap.xml
+Sitemap: https://sardoba-ttb.uz/sitemap.xml

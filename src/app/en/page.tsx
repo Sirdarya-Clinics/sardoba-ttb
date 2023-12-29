@@ -3,7 +3,7 @@ import { Header2 } from "@/sections/Header";
 import { AboutEng } from "@/components/About";
 import { QuestionsEng } from "@/components/Questions";
 import Carusel from "@/components/carusel";
-import { GalleryEng } from "@/components/gallery/Gallery";
+import { DirektorUz, GalleryEng } from "@/components/gallery/Gallery";
 import { GetNews } from "@/components/getNews";
 import { Suspense } from "react";
 import bg from "../../../public/page-bg.jpg";
@@ -65,7 +65,7 @@ export default function EnPage() {
         <Carusel />
         <AboutEng />
         <GalleryEng />
-        {/* <Gallery2 /> */}
+        <DirektorUz/>
         <Suspense>
           <h2 className="text-3xl py-8">News</h2>
           <GetNews />

@@ -3,31 +3,31 @@ export function AboutUz() {
     <>
       <div id="about" className="flex flex-col justify-center p-8">
         <h2 className=" text-2xl text-blue-600">
-          Shirin tuman tibbiyot birlashmasi haqida
+          Sardoba tuman tibbiyot birlashmasi haqida
         </h2>
 
         <ul className="text-gray-500 content-center">
           <li>
-            Shifoxonamizning faoliyati davomida biz doimo faoliyatimizning
-            barcha yo&apos;nalishlarini rivojlantirib mukammallashib
-            bormoqdamiz.
+          Sardoba tuman tibbiyot birlashmasi shifoxonasi Paxtaobod shaxarchasi Chinabot 40-uyda joylashgan boʼlib,
+           tuman aholisiga tibbiy xizmat koʼrsatib kelmokda. Sardoba tumani hududida umumiy aholi soni 59112 nafarni tashkil etadi, shundan kattalar 37333 nafar,
+            oʼsmirlar 2920 nafar, 14 yoshgacha bolalar 18859 nafar, 1 yoshgacha bolalar 1373 nafar qariyalar 1252 nafar, zurriyod yoshidagi ayollar 14463 nafarni tashkil etadi.
           </li>
           <li>
-            Bu bizga yetakchilikni saqlab qolish va bemorlarimizning qoniqishini
-            maksimal darajada ta&apos;minlash, shuningdek, biz taqdim etayotgan
-            xizmatlarning yuqori sifatini ta&apos;minlash imkonini beradi.
+          Sardoba tuman tibbiyot birlashmasida 120 nafar bemor yotib davolanish oʼrinlari mavjud. 
+          
           </li>
           <li>
-            Rivojlanish jarayonida O&apos;zbekiston hududida tibbiy shifoxonalar
-            va markazlarning ish sifatini baholash uchun yangi, zamonaviy,
-            yuqori mezonlarni shakllantirmoqdamiz.
+          Tumanda yana 300 qabulga moʼljallangan koʼp tarmoqli markaziy poliklinikasi, 400 qabulga moʼljallangan 2 ta OP va 7 ta OShP lar faoliyat olib boradi.
           </li>
           <li>
-            Bizda taqdim etiladigan xizmatlar darajasini dunyoning yetakchi
-            shifoxonalariga o&apos;xshashini va imkon qadar yaqin
-            bo&apos;lishini ta&apos;minlashga intilamiz. Mukammallik chegara
-            bilmaydi … Biz uni rivojlanish uchun doimo rag&apos;batlantiruvchi
-            va ishimizning asosiy maqsadi deb hisoblaymiz.
+         
+          <h2 className=" text-2xl text-blue-600">
+          Mutaxassislar xizmati:
+        </h2>
+Tuman boʼyicha jami vrachlar soni – 40 nafar. Shundan kategoriyasi borlar 
+21 nafar (44,6%), 11 ta oliy kategoriya, 6 ta birinchi kategoriya, 4 ta ikkinchi kategoriya. 
+Umumiy amaliyot shifokorlari 6 nafar. Tumanning xar 10 ming axoliga vrachlar bilan taʼminlanishi 7,1 ni tashkil etadi. Oʼrta tibbiyot xodimlari soni –
+673 nafar. Oʼrta tibbiyot hodimlari bilan taʼminlanish xar 10 ming axolisiga 102.3 ni tashkil etadi. Hamshiralardan 64 ta oliy kategoriya, 18 ta 1 kategoriya, 57 ta 2 kategoriya, jami 139 (20,6%) nafari toifaga ega.
           </li>
         </ul>
       </div>
@@ -40,28 +40,29 @@ export function AboutEng() {
     <>
       <div id="about" className="flex flex-col justify-center p-8">
         <h2 className=" text-2xl text-blue-600">
-          About the Shirin regional medical association
+          About the Sardoba regional medical association
         </h2>
 
         <ul className="text-gray-500 content-center">
           <li>
-            This allows us to maintain leadership and maximize the satisfaction
-            of our patients and what we provide. allows us to ensure high
-            quality of services provided.
+          Sardoba District Medical Association Hospital is located at 40 Chinabot, Pakhtaabad city.
+           providing medical services to the residents of the district. The total population of Sardoba District is 59,112, of which 37,333 are adults.
+            2920 teenagers, 18859 children under 14 years old, 1373 children under 1 year old, 1252 elderly people, 14463 women of reproductive age.
           </li>
           <li>
-            In order to assess the quality of work of medical hospitals and
-            centers in Uzbekistan, new ones are being developed in the
-            development process.
+          Sardoba District Medical Association has beds for 120 patients.
           </li>
           <li>
-            We are forming modern, high standards. The level of services we
-            provide is similar to the leading hospitals in the world and is as
-            close as possible to them.
+          There is also a multidisciplinary central polyclinic with 300 admissions, 2 OPs and 7 OShPs with 400 admissions operating in the district.
           </li>
           <li>
-            We strive to provide. Perfection knows no bounds... We consider this
-            a constant incentive for development and the main goal of our work.
+          <h2 className=" text-2xl text-blue-600">
+          Expert service:
+        </h2>
+        The total number of doctors in the district is 40. There are categories
+21 people (44.6%), 11 higher category, 6 first category, 4 second category.
+There are 6 general practitioners. The provision of doctors for every 10,000 inhabitants of the district is 7.1. The number of secondary medical workers -
+673 people. Provision of secondary medical personnel is 102.3 per 10 thousand population. Of the nurses, 64 have the highest category, 18 have the 1st category, 57 have the 2nd category, a total of 139 (20.6%) have a category.
           </li>
         </ul>
       </div>
@@ -74,32 +75,28 @@ export function AboutRu() {
     <>
       <div id="about" className="flex flex-col justify-center p-8">
         <h2 className=" text-2xl text-blue-600">
-          Об Ширинском районном медицинском объединении
+        О Сардобинском районном медицинском объединении
         </h2>
 
         <ul className="text-gray-500 content-center">
           <li>
-            За время работы нашей больницы мы постоянно развиваемся и
-            совершенствуем все направления нашей деятельности.
+          Сардобинское районное медицинское объединение располагает койками на 120 больных.
+           В районе действуют 300 приемных многопрофильных центральных поликлиник, 400 приемных пунктов, 2 ОП и 7 ОШП.
           </li>
           <li>
-            Это позволяет нам сохранять лидерство и удовлетворенность наших
-            пациентов. предоставляя максимально возможное, а также то, что мы
-            предоставляем позволяет обеспечить высокое качество услуг.
+          Сардобинское районное медицинское объединение располагает койками на 120 больных.
           </li>
           <li>
-            Это позволяет нам сохранять лидерство и максимально удовлетворять
-            наших пациентов,а также то, что мы предоставляем. позволяет
-            обеспечить высокое качество предоставляемых услуг. В целях оценки
-            качества работы медицинских больниц и центров Узбекистана в процессе
-            развития разрабатываются новые, Мы формируем современные, высокие
-            стандарты.
+          Также в районе действуют многопрофильная центральная поликлиника на 300 приемов, 2 ОП и 7 ОШП на 400 приемов.
           </li>
           <li>
-            Уровень предоставляемых нами услуг аналогичен ведущим больницам мира
-            и максимально приближен к ним. Мы стремимся предоставить.
-            Совершенство не знает границ... Мы считаем это постоянным стимулом к
-            ​​развитию и главной целью нашей работы.
+          <h2 className=" text-2xl text-blue-600">
+          Экспертная служба:
+        </h2>
+          Общее количество врачей в районе – 40. Есть категории
+21 человек (44,6%), 11 высшей категории, 6 первой категории, 4 второй категории.
+Есть 6 врачей общей практики. Обеспеченность врачами на каждые 10 000 жителей района составляет 7,1. Численность средних медицинских работников -
+673 человека. Обеспеченность средним медицинским персоналом составляет 102,3 на 10 тысяч населения. Из медицинских сестер 64 имеют высшую категорию, 18 - 1-ю категорию, 57 - 2-ю категорию, всего 139 (20,6%) имеют категорию.
           </li>
         </ul>
       </div>
